@@ -29,6 +29,9 @@ Cybersecurity Enthusiast · CTF Player · Python Tinkerer · Linux Nerd
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=A4W4D&theme=radical" width="48%" />
 </p>
 
+<p align="center">
+  <img src="https://github.com/A4W4D/A4W4D/raw/main/banner_compressed.png" alt="A4W4D Banner" width="100%" />
+</p>
 ## 🌐 Kontakt
 
 📧 [Awadoualit@icloud.com](mailto:Awadoualit@icloud.com)  
