@@ -32,7 +32,7 @@ Cybersecurity Enthusiast · CTF Player · Python Tinkerer · Linux Nerd
 ---
 
 <p align="center">
-  <img src="https://github.com/A4W4D/A4W4D/raw/main/banner_compressed.jpg" alt="Banner" />
+  <img src="https://github.com/A4W4D/A4W4D/raw/main/banner_compressed.jpg" alt="Awad Banner" />
 </p>
 
 ## 🌐 Kontakt
