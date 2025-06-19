@@ -29,10 +29,6 @@ Cybersecurity Enthusiast · CTF Player · Python Tinkerer · Linux Nerd
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=A4W4D&theme=radical" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=A4W4D&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
 ## 🌐 Kontakt
 
 📧 [Awadoualit@icloud.com](mailto:Awadoualit@icloud.com)  
@@ -41,6 +37,10 @@ Cybersecurity Enthusiast · CTF Player · Python Tinkerer · Linux Nerd
 ---
 
 > 👨‍💻 _„Hack The Box. Learn. Repeat.“_
+>
+> <p align="left">
+  <img src="https://komarev.com/ghpvc/?username=A4W4D&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 <!--
 **A4W4D/A4W4D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
