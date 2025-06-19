@@ -18,7 +18,7 @@ Cybersecurity Enthusiast · CTF Player · Python Tinkerer · Linux Nerd
 
 ## 🧰 Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=python,bash,linux,git,github,vscode,docker,nmap,wireshark,html,css,js,nodejs,mysql,postman,ubuntu,kali&theme=dark)](https://skillicons.dev)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
