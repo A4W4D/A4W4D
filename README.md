@@ -31,6 +31,10 @@ Cybersecurity Enthusiast · CTF Player · Python Tinkerer · Linux Nerd
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/A4W4D/A4W4D/main/banner_compressed.jpg" alt="Welcome banner" />
+</p>
+
 ## 🌐 Kontakt
 
 📧 [Awadoualit@icloud.com](mailto:Awadoualit@icloud.com)  
