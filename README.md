@@ -28,7 +28,10 @@ Cybersecurity Enthusiast · CTF Player · Python Tinkerer · Linux Nerd
   <img src="https://github-readme-stats.vercel.app/api?username=A4W4D&show_icons=true&theme=radical" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=A4W4D&theme=radical" width="48%" />
 </p>
-
+<p align="center">
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=A4W4D&show_icons=true&theme=radical" />
+  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=A4W4D&theme=radical" />
+</p>
 ---
 
 <p align="center">
