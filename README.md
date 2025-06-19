@@ -18,7 +18,7 @@ Cybersecurity Enthusiast · CTF Player · Python Tinkerer · Linux Nerd
 
 ## 🧰 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=c,c++,python,bash,linux,git,github,vscode,docker,nmap,wireshark,html,css,js,nodejs,mysql,postman,ubuntu,kali&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,c+,python,bash,linux,git,github,vscode,docker,html,css,js,nodejs,mysql,postman,ubuntu,kali&theme=dark)](https://skillicons.dev)
 
 ---
 
