@@ -2,7 +2,7 @@
 <h1 align="center">🛡️ A4W4D | Awad Oualit</h1>
 
 <p align="center">
-Cybersecurity Enthusiast · CTF Player · Python Tinkerer · Linux Nerd
+Cybersecurity Enthusiast · CTF Player · Python Tinkerer · MacOs Nerd
 </p>
 
 ---
