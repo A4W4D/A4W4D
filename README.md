@@ -30,7 +30,7 @@ Cybersecurity Enthusiast · CTF Player · Python Tinkerer · Linux Nerd
 </p>
 
 <p align="center">
-  <img src="https://github.com/A4W4D/A4W4D/raw/main/banner_compressed.png" alt="A4W4D Banner" width="100%" />
+  <img src="https://github.com/A4W4D/A4W4D/raw/main/banner_compressed.jpg" alt="A4W4D Banner" width="100%" />
 </p>
 ## 🌐 Kontakt
 
