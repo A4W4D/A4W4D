@@ -33,8 +33,7 @@ Cybersecurity Enthusiast · CTF Player · Python Tinkerer · MacOs Nerd
 
 📧 [Awadoualit@icloud.com](mailto:Awadoualit@icloud.com)  
 🔗 [github.com/A4W4D](https://github.com/A4W4D)
-
-   [website] coming soon
+🌐 [website](https://awad.framer.website)
 
 ---
 
