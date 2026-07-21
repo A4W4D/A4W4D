@@ -28,6 +28,14 @@
 </p>
 
 ---
+###  Cyber Security Labs
+
+<p align="center">
+  <a href="https://tryhackme.com/p/DEIN_THM_USER" target="_blank">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/DEIN_THM_USER.png" alt="TryHackMe Badge" />
+  </a>
+</p>
+---
 
 ###  GitHub Stats
 
