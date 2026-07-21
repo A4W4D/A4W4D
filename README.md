@@ -47,8 +47,8 @@
   <a href="https://www.linkedin.com/in/awad-oualit" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Awad_Oualit-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:Awadoualit@icloud.com">
-    <img src="https://img.shields.io/badge/E--Mail-Awadoualit%40icloud.com-D14836?style=for-the-badge&logo=icloud&logoColor=white" />
+  <a href="mailto:awadelzubi17@gmail.com">
+    <img src="https://img.shields.io/badge/E--Mail-awadelzubi17%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
