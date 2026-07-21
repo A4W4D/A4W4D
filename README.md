@@ -1,4 +1,4 @@
-<h1 align="center">🛡️ A4W4D | Awad Oualit</h1>
+<h1 align="center"> A4W4D | Awad Oualit</h1>
 
 <p align="center">
   <b>Cybersecurity Enthusiast</b> · <b>CTF Player</b> · <b>Python Tinkerer</b> · <b>macOS Nerd</b>
@@ -12,10 +12,10 @@
 
 ###  Über mich
 
-- 🚀 **Ziel:** Tiefer Einstieg in Offensive Security & Pentesting
-- 🎯 **Fokus:** CTFs (TryHackMe, Hack The Box), Scripting, Recon & OSINT
-- 🛠️ **Tools:** Python, Nmap, Burp Suite, Bash, ffuf, Hydra
-- 💻 **Projekte:** [Mac Mini Ubuntu Server Setup](https://github.com/A4W4D/mac-mini-ubuntu-server)
+-  **Ziel:** Tiefer Einstieg in Offensive Security & Pentesting
+-  **Fokus:** CTFs (TryHackMe, Hack The Box), Scripting, Recon & OSINT
+-  **Tools:** Python, Nmap, Burp Suite, Bash, ffuf, Hydra
+-  **Projekte:** [Mac Mini Ubuntu Server Setup](https://github.com/A4W4D/mac-mini-ubuntu-server)
 
 ---
 
