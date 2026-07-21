@@ -1,69 +1,59 @@
-## Hi there 👋
 <h1 align="center">🛡️ A4W4D | Awad Oualit</h1>
 
 <p align="center">
-Cybersecurity Enthusiast · CTF Player · Python Tinkerer · MacOs Nerd
+  <b>Cybersecurity Enthusiast</b> · <b>CTF Player</b> · <b>Python Tinkerer</b> · <b>macOS Nerd</b>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=A4W4D&label=Profile+Views&color=0e75b6&style=flat-square" alt="profile views" />
 </p>
 
 ---
 
-##  Über mich
+###  Über mich
 
--  Ziel: Tiefer Einstieg in Offensive Security & Pentesting
--  Fokus: CTFs (TryHackMe, HTB), Scripting, Recon, OSINT
--  Tools: Python, Nmap, Burp Suite, Bash, ffuf, Hydra
--  Projekte: [Mac-mini-server](https://github.com/A4W4D/mac-mini-ubuntu-server)
-
----
-
-##  Tech Stack
-
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,linux,git,github,vscode,docker,html,mysql,arduino,apple,gitlab,idea,notion,r,vscode,windows,ubuntu,kali&theme=dark)](https://skillicons.dev)
+- 🚀 **Ziel:** Tiefer Einstieg in Offensive Security & Pentesting
+- 🎯 **Fokus:** CTFs (TryHackMe, Hack The Box), Scripting, Recon & OSINT
+- 🛠️ **Tools:** Python, Nmap, Burp Suite, Bash, ffuf, Hydra
+- 💻 **Projekte:** [Mac Mini Ubuntu Server Setup](https://github.com/A4W4D/mac-mini-ubuntu-server)
 
 ---
 
-##  GitHub Stats
+###  Tech Stack & Tools
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,bash,c,cpp,linux,ubuntu,kali,docker,git,github,vscode,apple,html,css,mysql,arduino,notion&perline=9&theme=dark" />
+  </a>
+</p>
+
+---
+
+###  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=A4W4D&show_icons=true&theme=radical" width="48%" />
   <img src="https://streak-stats.demolab.com/?user=A4W4D&theme=radical" width="48%" />
 </p>
 
-### Languages & Tools
+---
+
+###  Kontakt & Links
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <a href="https://a4w4d.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Website-a4w4d.github.io-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/awad-oualit" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Awad_Oualit-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:Awadoualit@icloud.com">
+    <img src="https://img.shields.io/badge/E--Mail-Awadoualit%40icloud.com-D14836?style=for-the-badge&logo=icloud&logoColor=white" />
+  </a>
 </p>
-
-##  Kontakt
-
-📧 [Awadoualit@icloud.com](mailto:Awadelzubi17@gmail.com)  
-🔗 [LinkedIn](www.linkedin.com/in/awad-oualit)                 
-🌐 https://a4w4d.github.io
 
 ---
 
-> 👨‍💻 _„Hack The Box. Learn. Repeat.“_
->
-> <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=A4W4D&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
+<p align="center">
+  <i>💬 „Hack The Box. Learn. Repeat.“</i>
 </p>
-<!--
-**A4W4D/A4W4D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
