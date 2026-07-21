@@ -12,7 +12,7 @@ Cybersecurity Enthusiast · CTF Player · Python Tinkerer · MacOs Nerd
 -  Ziel: Tiefer Einstieg in Offensive Security & Pentesting
 -  Fokus: CTFs (TryHackMe, HTB), Scripting, Recon, OSINT
 -  Tools: Python, Nmap, Burp Suite, Bash, ffuf, Hydra
--  Projekte: [ctf-by-awad](https://github.com/A4W4D/ctf-by-awad)
+-  Projekte: [Mac-mini-server](https://github.com/A4W4D/mac-mini-ubuntu-server)
 
 ---
 
