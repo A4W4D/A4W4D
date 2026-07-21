@@ -25,7 +25,7 @@ Cybersecurity Enthusiast · CTF Player · Python Tinkerer · MacOs Nerd
 ##  GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=A4W4D&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats-api.vercel.app/api?username=A4W4D&show_icons=true&theme=radical" width="48%" />
   <img src="https://streak-stats.demolab.com/?user=A4W4D&theme=radical" width="48%" />
 </p>
 
