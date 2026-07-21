@@ -31,7 +31,7 @@ Cybersecurity Enthusiast · CTF Player · Python Tinkerer · MacOs Nerd
 
 ##  Kontakt
 
-📧 [Awadoualit@icloud.com](mailto:Awadoualit@icloud.com)  
+📧 [Awadoualit@icloud.com](mailto:Awadelzubi17@gmail.com)  
 🔗 [LinkedIn](www.linkedin.com/in/awad-oualit)                 
 🌐 https://a4w4d.github.io
 
